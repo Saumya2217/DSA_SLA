@@ -1,0 +1,210 @@
+
+=======================================================
+             INVENTORY MANAGEMENT SYSTEM
+=======================================================
+
+--- STAGE 1: STACK AND QUEUES ---
+ 1. Add Restock Request (Linear Queue)
+ 2. Process Restock Request
+ 3. Display Restock Queue
+ 4. Add Checkout Request (Circular Queue)
+ 5. Process Checkout Request
+ 6. Display Checkout Queue
+ 7. Display Recently Added Products (Stack)
+ 8. Pop Recent-Products Stack
+
+--- STAGE 2: DOUBLY LINKED LIST AND BST ---
+ 9. Add Product
+10. Insert Product After Selected Product
+11. Display Inventory (Forward DLL)
+12. Display Inventory (Reverse DLL)
+13. Delete Product
+14. Display Inventory Sorted by ID (BST)
+15. Search Product in BST
+
+--- STAGE 3: HASH TABLE ---
+16. Search Product using Hash Table
+17. Display Hash Table
+
+ 0. Exit
+Enter choice: Enter Product ID: Enter Product Name: Enter Quantity: Enter Unit Price: Product added. DLL, Stack, BST and Hash Table updated.
+
+=======================================================
+             INVENTORY MANAGEMENT SYSTEM
+=======================================================
+
+--- STAGE 1: STACK AND QUEUES ---
+ 1. Add Restock Request (Linear Queue)
+ 2. Process Restock Request
+ 3. Display Restock Queue
+ 4. Add Checkout Request (Circular Queue)
+ 5. Process Checkout Request
+ 6. Display Checkout Queue
+ 7. Display Recently Added Products (Stack)
+ 8. Pop Recent-Products Stack
+
+--- STAGE 2: DOUBLY LINKED LIST AND BST ---
+ 9. Add Product
+10. Insert Product After Selected Product
+11. Display Inventory (Forward DLL)
+12. Display Inventory (Reverse DLL)
+13. Delete Product
+14. Display Inventory Sorted by ID (BST)
+15. Search Product in BST
+
+--- STAGE 3: HASH TABLE ---
+16. Search Product using Hash Table
+17. Display Hash Table
+
+ 0. Exit
+Enter choice: Enter Product ID to restock: Enter quantity to restock: Restock request added to Linear Queue.
+
+=======================================================
+             INVENTORY MANAGEMENT SYSTEM
+=======================================================
+
+--- STAGE 1: STACK AND QUEUES ---
+ 1. Add Restock Request (Linear Queue)
+ 2. Process Restock Request
+ 3. Display Restock Queue
+ 4. Add Checkout Request (Circular Queue)
+ 5. Process Checkout Request
+ 6. Display Checkout Queue
+ 7. Display Recently Added Products (Stack)
+ 8. Pop Recent-Products Stack
+
+--- STAGE 2: DOUBLY LINKED LIST AND BST ---
+ 9. Add Product
+10. Insert Product After Selected Product
+11. Display Inventory (Forward DLL)
+12. Display Inventory (Reverse DLL)
+13. Delete Product
+14. Display Inventory Sorted by ID (BST)
+15. Search Product in BST
+
+--- STAGE 3: HASH TABLE ---
+16. Search Product using Hash Table
+17. Display Hash Table
+
+ 0. Exit
+Enter choice: Restock processed for Notebook. Added 5; new stock: 15.
+
+=======================================================
+             INVENTORY MANAGEMENT SYSTEM
+=======================================================
+
+--- STAGE 1: STACK AND QUEUES ---
+ 1. Add Restock Request (Linear Queue)
+ 2. Process Restock Request
+ 3. Display Restock Queue
+ 4. Add Checkout Request (Circular Queue)
+ 5. Process Checkout Request
+ 6. Display Checkout Queue
+ 7. Display Recently Added Products (Stack)
+ 8. Pop Recent-Products Stack
+
+--- STAGE 2: DOUBLY LINKED LIST AND BST ---
+ 9. Add Product
+10. Insert Product After Selected Product
+11. Display Inventory (Forward DLL)
+12. Display Inventory (Reverse DLL)
+13. Delete Product
+14. Display Inventory Sorted by ID (BST)
+15. Search Product in BST
+
+--- STAGE 3: HASH TABLE ---
+16. Search Product using Hash Table
+17. Display Hash Table
+
+ 0. Exit
+Enter choice: Enter Product ID to purchase: Enter quantity to buy: Checkout request added to Circular Queue.
+
+=======================================================
+             INVENTORY MANAGEMENT SYSTEM
+=======================================================
+
+--- STAGE 1: STACK AND QUEUES ---
+ 1. Add Restock Request (Linear Queue)
+ 2. Process Restock Request
+ 3. Display Restock Queue
+ 4. Add Checkout Request (Circular Queue)
+ 5. Process Checkout Request
+ 6. Display Checkout Queue
+ 7. Display Recently Added Products (Stack)
+ 8. Pop Recent-Products Stack
+
+--- STAGE 2: DOUBLY LINKED LIST AND BST ---
+ 9. Add Product
+10. Insert Product After Selected Product
+11. Display Inventory (Forward DLL)
+12. Display Inventory (Reverse DLL)
+13. Delete Product
+14. Display Inventory Sorted by ID (BST)
+15. Search Product in BST
+
+--- STAGE 3: HASH TABLE ---
+16. Search Product using Hash Table
+17. Display Hash Table
+
+ 0. Exit
+Enter choice: Checkout successful: Notebook | Qty: 3 | Total: Rs. 150.00 | Remaining: 12
+
+=======================================================
+             INVENTORY MANAGEMENT SYSTEM
+=======================================================
+
+--- STAGE 1: STACK AND QUEUES ---
+ 1. Add Restock Request (Linear Queue)
+ 2. Process Restock Request
+ 3. Display Restock Queue
+ 4. Add Checkout Request (Circular Queue)
+ 5. Process Checkout Request
+ 6. Display Checkout Queue
+ 7. Display Recently Added Products (Stack)
+ 8. Pop Recent-Products Stack
+
+--- STAGE 2: DOUBLY LINKED LIST AND BST ---
+ 9. Add Product
+10. Insert Product After Selected Product
+11. Display Inventory (Forward DLL)
+12. Display Inventory (Reverse DLL)
+13. Delete Product
+14. Display Inventory Sorted by ID (BST)
+15. Search Product in BST
+
+--- STAGE 3: HASH TABLE ---
+16. Search Product using Hash Table
+17. Display Hash Table
+
+ 0. Exit
+Enter choice: Enter Product ID to search using Hash Table: Found: ID: 101 | Name: Notebook | Quantity: 12 | Price: Rs. 50.00
+
+=======================================================
+             INVENTORY MANAGEMENT SYSTEM
+=======================================================
+
+--- STAGE 1: STACK AND QUEUES ---
+ 1. Add Restock Request (Linear Queue)
+ 2. Process Restock Request
+ 3. Display Restock Queue
+ 4. Add Checkout Request (Circular Queue)
+ 5. Process Checkout Request
+ 6. Display Checkout Queue
+ 7. Display Recently Added Products (Stack)
+ 8. Pop Recent-Products Stack
+
+--- STAGE 2: DOUBLY LINKED LIST AND BST ---
+ 9. Add Product
+10. Insert Product After Selected Product
+11. Display Inventory (Forward DLL)
+12. Display Inventory (Reverse DLL)
+13. Delete Product
+14. Display Inventory Sorted by ID (BST)
+15. Search Product in BST
+
+--- STAGE 3: HASH TABLE ---
+16. Search Product using Hash Table
+17. Display Hash Table
+
+ 0. Exit
+Enter choice: Exiting Inventory Management System.

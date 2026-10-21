@@ -1,0 +1,11 @@
+# Compiled programs and object files
+*.exe
+*.o
+*.obj
+*.out
+/inventory
+
+# Debug artifacts
+*.pdb
+*.ilk
+*.dSYM/
